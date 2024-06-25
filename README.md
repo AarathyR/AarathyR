@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aarathy R Vincent</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="C:\Users\Aarthy\Downloads\images.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarathyr&label=Profile%20views&color=0e75b6&style=flat" alt="aarathyr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarathyr" alt="aarathyr" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Object Detection**
+- 👯 I’m looking to collaborate on **Object Detection, Face Recognition, Face Comparison**
+
+- 🤝 I’m looking for help with **Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
