@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarathy R Vincent</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362400">
+!**<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362400">**!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarathyr&label=Profile%20views&color=0e75b6&style=flat" alt="aarathyr" /> </p>
 
