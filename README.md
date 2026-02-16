@@ -24,7 +24,4 @@ Python | Azure | OpenTelemetry | Docker | GitHub | FAST APIs | AWS | Streamlit |
 - Intelligent Document Retrieval System
 
 ## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/aarathy-r-vincent-3a0911214 <img width="680" height="55" alt="image" src="https://github.com/user-attachments/assets/5ab89978-24aa-4afb-a879-d61e29b9d96d" />
-
-## 📫 Connect With Me
-LinkedIn: <your-link>
+LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/aarathy-r-vincent-3a0911214
